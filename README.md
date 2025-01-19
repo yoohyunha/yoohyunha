@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=yoohyunha$show_icons=true&hide_border=true)](https://github.com/yoohyunha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact)](https://github.com/yoohyunha)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=yoohyunha$show_icons=true&hide_border=true)](https://github.com/yoohyunha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact)](https://github.com/yoohyunha)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=radical)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=4b4f72&height=120&text=gg&animation=fadeIn&fontColor=ffffff&fontSize=50" />
