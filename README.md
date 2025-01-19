@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=yoohyunha$show_icons=true&hide_border=true)](https://github.com/yoohyunha)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact)](https://github.com/yoohyunha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=radical)
