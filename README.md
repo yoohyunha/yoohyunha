@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoohyunha)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoohyunha)](https://hits.seeyoufarm.com)
 
-<!--
+
 **yoohyunha/yoohyunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=yoohyunha$show_icons=true&hide_border=true)](https://github.com/yoohyunha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact)](https://github.com/yoohyunha)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact)](https://github.com/yoohyunha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=radical)-->
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=4b4f72&height=120&text=gg&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
