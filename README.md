@@ -83,6 +83,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoohyunha&bg_color=180,4b4a73,00000000&title_color=4b4f72&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact&bg_color=180,4b4a73,00000000&title_color=4b4f72&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=transparent&title_color=4b4f72&text_color=c9d1d9&icon_color=4b4f72" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact&theme=transparent&title_color=4b4f72&text_color=c9d1d9" height="170" />
 </div>
