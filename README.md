@@ -1,12 +1,8 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=4b4f72&height=120&text=Yoo%20Hyunha&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoohyunha%2F&count_bg=%234b4f72&title_bg=%2321262d&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4b4f72&height=200&section=header&text=Yoo%20Hyunha&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4b4f72&center=true&vCenter=true&width=435&lines=Back-end+Developer;Spring+Boot+%26+Node.js;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
