@@ -11,11 +11,6 @@
 
 <br>
 
-## 🚀 About Me
-- 🌱 **Computer Software Engineering** 전공으로 탄탄한 CS 지식과 실무 역량을 쌓아왔습니다.
-- 💻 **Spring Boot & Node.js** 기반의 백엔드 개발에 강점이 있으며, **Docker와 AWS**를 활용한 서버 인프라 구축 및 자동화 경험이 풍부합니다.
-- 🎓 동양미래대학교 졸업 (2023.03 ~ 2026.02)
-
 ---
 
 ## 🛠️ Tech Stacks
@@ -82,7 +77,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoohyunha&show_icons=true&theme=transparent&title_color=4b4f72&text_color=c9d1d9&icon_color=4b4f72" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyunha&layout=compact&theme=transparent&title_color=4b4f72&text_color=c9d1d9" height="170" />
-</div>
+
