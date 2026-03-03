@@ -61,15 +61,16 @@
 
 ## 🧑‍💻 Contact me
 <div align="center">
+  <a href="mailto:y01049418169@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
+  </a>
   <a href="https://velog.io/@yoohyunha/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
   </a>
   <a href="https://www.notion.so/5fee823352764bccb8958bcd1d64baff">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </a>
-  <a href="mailto:y01049418169@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
+  
 </div>
 
 <br>
